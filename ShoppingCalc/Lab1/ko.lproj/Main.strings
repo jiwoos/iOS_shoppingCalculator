@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; normalTitle = "Korean Won ₩"; ObjectID = "2tc-uQ-BZD"; */
+"2tc-uQ-BZD.normalTitle" = "₩";
+
+/* Class = "UIButton"; normalTitle = "Other Currencies"; ObjectID = "5sQ-DF-eY9"; */
+"5sQ-DF-eY9.normalTitle" = "다른 환율 보기";
+
+/* Class = "UILabel"; text = "Sales Tax %"; ObjectID = "FBL-Rw-uTW"; */
+"FBL-Rw-uTW.text" = "세금 %";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "LMh-P0-Dak"; */
+"LMh-P0-Dak.text" = "가격";
+
+/* Class = "UILabel"; text = "Dark Mode"; ObjectID = "TYA-5f-pu5"; */
+"TYA-5f-pu5.text" = "어둡게 보기";
+
+/* Class = "UILabel"; text = "Shopping Calculator"; ObjectID = "X5E-Sl-Sbf"; */
+"X5E-Sl-Sbf.text" = "쇼핑 계산기";
+
+/* Class = "UIButton"; normalTitle = "British Pound Sterling £"; ObjectID = "XDd-go-7KT"; */
+"XDd-go-7KT.normalTitle" = "£";
+
+/* Class = "UILabel"; text = "Discount %"; ObjectID = "a5I-tL-Nr2"; */
+"a5I-tL-Nr2.text" = "할인 %";
+
+/* Class = "UILabel"; text = "💸"; ObjectID = "cw4-0k-hS4"; */
+"cw4-0k-hS4.text" = "💸";
+
+/* Class = "UILabel"; text = "input values should be positive "; ObjectID = "dDx-UH-i6b"; */
+"dDx-UH-i6b.text" = "입력값이 양수여야 합니다";
+
+/* Class = "UILabel"; text = "Final Price :"; ObjectID = "dbP-uB-juG"; */
+"dbP-uB-juG.text" = "할인 된 가격 :";
+
+/* Class = "UIButton"; normalTitle = "EU Euro €"; ObjectID = "e5J-61-LMN"; */
+"e5J-61-LMN.normalTitle" = "€";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "fLi-GO-NLx"; */
+"fLi-GO-NLx.text" = "$";
+
+/* Class = "UILabel"; text = "check your values!"; ObjectID = "kt7-0P-oJ3"; */
+"kt7-0P-oJ3.text" = "입력 값을 확인해주세요!";
+
+/* Class = "UIButton"; normalTitle = "Japanese Yen ¥"; ObjectID = "mPA-4w-HVj"; */
+"mPA-4w-HVj.normalTitle" = "¥";

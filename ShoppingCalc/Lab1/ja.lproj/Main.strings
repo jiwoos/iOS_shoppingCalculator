@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; normalTitle = "₩"; ObjectID = "2tc-uQ-BZD"; */
+"2tc-uQ-BZD.normalTitle" = "₩";
+
+/* Class = "UIButton"; normalTitle = "Other Currencies"; ObjectID = "5sQ-DF-eY9"; */
+"5sQ-DF-eY9.normalTitle" = "他の為替レート";
+
+/* Class = "UILabel"; text = "Sales Tax %"; ObjectID = "FBL-Rw-uTW"; */
+"FBL-Rw-uTW.text" = "税金 %";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "LMh-P0-Dak"; */
+"LMh-P0-Dak.text" = "価格";
+
+/* Class = "UILabel"; text = "Dark Mode"; ObjectID = "TYA-5f-pu5"; */
+"TYA-5f-pu5.text" = "ダークモード";
+
+/* Class = "UILabel"; text = "Shopping Calculator"; ObjectID = "X5E-Sl-Sbf"; */
+"X5E-Sl-Sbf.text" = "ショッピング電卓";
+
+/* Class = "UIButton"; normalTitle = "£"; ObjectID = "XDd-go-7KT"; */
+"XDd-go-7KT.normalTitle" = "£";
+
+/* Class = "UILabel"; text = "Discount %"; ObjectID = "a5I-tL-Nr2"; */
+"a5I-tL-Nr2.text" = "ディスカウント %";
+
+/* Class = "UILabel"; text = "💸"; ObjectID = "cw4-0k-hS4"; */
+"cw4-0k-hS4.text" = "💸";
+
+/* Class = "UILabel"; text = "input values should be positive "; ObjectID = "dDx-UH-i6b"; */
+"dDx-UH-i6b.text" = "正の数を入れてください";
+
+/* Class = "UILabel"; text = "Final Price :"; ObjectID = "dbP-uB-juG"; */
+"dbP-uB-juG.text" = "割引価格 :";
+
+/* Class = "UIButton"; normalTitle = "€"; ObjectID = "e5J-61-LMN"; */
+"e5J-61-LMN.normalTitle" = "€";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "fLi-GO-NLx"; */
+"fLi-GO-NLx.text" = "$";
+
+/* Class = "UILabel"; text = "check your values!"; ObjectID = "kt7-0P-oJ3"; */
+"kt7-0P-oJ3.text" = "数字をチェックしてください!";
+
+/* Class = "UIButton"; normalTitle = "¥"; ObjectID = "mPA-4w-HVj"; */
+"mPA-4w-HVj.normalTitle" = "¥";
